@@ -1,0 +1,17 @@
+name: flutter_testing_challenge
+description: A new Flutter project for testing challenges.
+
+environment:
+  sdk: '>=3.16.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.1.0
+
+flutter:
+  uses-material-design: true
